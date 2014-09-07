@@ -19,3 +19,11 @@
 *.exe
 *.out
 *.app
+*.opensdf
+*.sdf
+*.sln
+*.tlog
+*.lastbuildstate
+*.idb
+*.filters
+*.vcxproj
